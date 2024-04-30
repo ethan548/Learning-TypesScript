@@ -12,6 +12,7 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
+    "moduleDetection": "force", // para poder usar variables en los modulos y no de manera global 
 
     /* Linting */
     "strict": true,
